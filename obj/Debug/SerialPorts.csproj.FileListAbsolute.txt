@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\bin\Debug\SerialPorts.exe.config
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\bin\Debug\SerialPorts.exe
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\bin\Debug\SerialPorts.pdb
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\obj\Debug\SerialPorts.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\obj\Debug\SerialPorts.Form1.resources
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\obj\Debug\SerialPorts.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\obj\Debug\SerialPorts.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\obj\Debug\SerialPorts.exe
+C:\Users\DELL\Desktop\上位机开发\SerialPorts\obj\Debug\SerialPorts.pdb
